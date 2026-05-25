@@ -19,5 +19,19 @@ h1, h2, h3, h4, h5, h6
 .container
 {
   width: 80em;
+}
+
+.content
+{
+  width: 60em;
   background: rgb(10, 25, 10);
+  float: left;
+}
+
+.post_list
+{
+  margin-left: 1em;
+  width: 19em;
+  background: rgb(10, 25, 10);
+  float: right;
 }
