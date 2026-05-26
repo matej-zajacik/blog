@@ -1,0 +1,27 @@
+{
+	"name": "blogsite",
+	"folders":
+	[
+		{
+			"path": ".",
+		},
+		{
+			"path": "e:/MyDocs/odin/odin/core",
+			"file_include_patterns": ["*.odin"],
+		},
+		{
+			"path": "e:/MyDocs/odin/odin/vendor",
+			"file_include_patterns": ["*.odin"],
+		}
+	],
+	"settings":
+	{
+		"LSP":
+		{
+			"odin":
+			{
+				"enabled": false,
+			},
+		},
+	},
+}

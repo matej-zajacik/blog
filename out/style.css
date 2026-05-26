@@ -1,0 +1,36 @@
+*
+{
+	font-size: 18px;
+	font-weight: normal;
+	font-family: monospace;
+	color: rgb(0, 175, 0);
+}
+
+body
+{
+	background: rgb(0, 10, 0);
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	color: rgb(0, 225, 0);
+}
+
+.container
+{
+	width: 80em;
+	margin: auto;
+}
+
+.content
+{
+	width: 60em;
+	background: rgb(10, 25, 10);
+}
+
+.post_list
+{
+	margin-left: 1em;
+	width: 19em;
+	background: rgb(10, 25, 10);
+}
