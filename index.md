@@ -1,3 +1,0 @@
-# Jako jo?
-
-Pengocetung si prdol...

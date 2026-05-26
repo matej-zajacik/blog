@@ -11,8 +11,8 @@ sb: strings.Builder
 main :: proc()
 {
 	strings.builder_init(&sb)
-
-	//
+	err := os.write_entire_file_from_string("../docs/index.html", DEFAULT_HTML)
+	fmt.assertf(err == nil, "error writing file: %v", err)
 }
 
 read_file :: proc(file_name: string) -> string
